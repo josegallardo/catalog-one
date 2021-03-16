@@ -1,0 +1,6 @@
+name: SharePoint-2019-2016-2013-with-a-lightweight-configuration
+version: 1.0
+description: SharePoint 2019 / 2016 / 2013 with a lightweight configuration. Each version is independent and may or may not be deployed.
+engine:  
+  type: ARM
+  entryPoint: SharePoint-AllVersions.json
